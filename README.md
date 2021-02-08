@@ -1,5 +1,7 @@
 # vue-reaction-timer
 
+Simple game to test your reaction time, Using Vue and a coupe, of compoents awith custome events
+
 ## Project setup
 ```
 yarn install
